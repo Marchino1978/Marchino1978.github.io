@@ -40,11 +40,36 @@
       <br>
       <img src="https://raw.githubusercontent.com/Marchino1978/blastIRohm/main/img/_splash_.png" alt="Un microcontrollore ESP32 con una faccia da cartone animato su una breadboard, che legge un foglio con occhiali da sole. A sinistra, un vecchio monitor CRT mostra codice C++ 'IRremote.h'. Il tavolo è pieno di LED IR e strumenti | An ESP32 microcontroller with a cartoon face on a breadboard, reading a paper with sunglasses. To the left, an old CRT monitor displays C++ 'IRremote.h' code. The table is cluttered with IR LEDs and tools" width="50%"><br>
       <br>
-      <font color="gold"><i>ESP32-S3 standalone high-power IR blaster featuring multi-LED arrays and precise microsecond RAW pulse playback for complex protocols, and interactive Telegram Bot testing.</i></font>
+      <font color="gold"><i>ESP32-S3 serverless high-power IR blaster featuring multi-LED arrays and precise microsecond RAW pulse playback for complex protocols, and interactive Telegram Bot testing.</i></font>
       <br><br>
       <a href="https://github.com/Marchino1978/blastIRohm"><strong>GitHub Repository</strong></a><br>
       <a href="https://marchino1978.github.io/blastIRohm/"><strong>Project Website</strong></a>
           </td>
   </tr>
+
+  <tr>
+    <td width="50%" align="center" valign="top">
+      <font color="gold"><strong>shuTVdown</strong></font>
+      <br>
+      <img src="https://raw.githubusercontent.com/Marchino1978/shuTVdown/main/img/_splash_.png" alt="Illustrazione 3D di un laboratorio di elettronica. Al centro, un Arduino Nano sorridente con un'unica porta USB è collegato a due LED che emettono fulmini energetici. L'energia si propaga a tutti i televisori della stanza: schermi piatti a muro con la scritta 'power OFF' e vecchi CRT laterali che si stanno spegnendo. Un cestino nell'angolo è pieno di telecomandi. | A 3D illustration of an electronics lab. In the center, a smiling Arduino Nano with a single USB port is connected to two LEDs emitting energy beams. The energy connects to all televisions in the room: wall-mounted flat screens displaying 'power OFF' and vintage CRTs on the sides showing a power-down effect. A bin in the corner overflows with remote controls." width="50%"><br>
+      <br>
+      <font color="gold"><i>A DIY, pocket-sized universal remote control designed with a single purpose: to turn off almost any television in its vicinity. Built on top of an <strong>Arduino Nano</strong>, this device sequentially broadcasts infrared (IR) `POWER OFF` commands for dozens of major TV manufacturers with a single button press.</i></font>
+      <br><br>
+      <a href="https://github.com/Marchino1978/shuTVdown"><strong>GitHub Repository</strong></a><br>
+      <a href="https://marchino1978.github.io/shuTVdown/"><strong>Project Website</strong></a>
+          </td>
+    <td width="50%" align="center" valign="top">
+      <font color="gold"><strong>shuTVdown</strong></font>
+      <br>
+      <img src="https://raw.githubusercontent.com/Marchino1978/shuTVdown/main/img/_splash_.png" alt="Illustrazione 3D di un laboratorio di elettronica. Al centro, un Arduino Nano sorridente con un'unica porta USB è collegato a due LED che emettono fulmini energetici. L'energia si propaga a tutti i televisori della stanza: schermi piatti a muro con la scritta 'power OFF' e vecchi CRT laterali che si stanno spegnendo. Un cestino nell'angolo è pieno di telecomandi. | A 3D illustration of an electronics lab. In the center, a smiling Arduino Nano with a single USB port is connected to two LEDs emitting energy beams. The energy connects to all televisions in the room: wall-mounted flat screens displaying 'power OFF' and vintage CRTs on the sides showing a power-down effect. A bin in the corner overflows with remote controls." width="50%"><br>
+      <br>
+      <font color="gold"><i>A DIY, pocket-sized universal remote control designed with a single purpose: to turn off almost any television in its vicinity. Built on top of an <strong>Arduino Nano</strong>, this device sequentially broadcasts infrared (IR) `POWER OFF` commands for dozens of major TV manufacturers with a single button press.</i></font>
+      <br><br>
+      <a href="https://github.com/Marchino1978/shuTVdown"><strong>GitHub Repository</strong></a><br>
+      <a href="https://marchino1978.github.io/shuTVdown/"><strong>Project Website</strong></a>
+          </td>
+  </tr>
   -->
 </table>
+
+
