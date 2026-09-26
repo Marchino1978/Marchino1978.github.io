@@ -53,7 +53,7 @@
       <br>
       <img src="https://raw.githubusercontent.com/Marchino1978/shuTVdown/main/img/_splash_.png" alt="Illustrazione 3D di un laboratorio di elettronica. Al centro, un Arduino Nano sorridente con un'unica porta USB è collegato a due LED che emettono fulmini energetici. L'energia si propaga a tutti i televisori della stanza: schermi piatti a muro con la scritta 'power OFF' e vecchi CRT laterali che si stanno spegnendo. Un cestino nell'angolo è pieno di telecomandi. | A 3D illustration of an electronics lab. In the center, a smiling Arduino Nano with a single USB port is connected to two LEDs emitting energy beams. The energy connects to all televisions in the room: wall-mounted flat screens displaying 'power OFF' and vintage CRTs on the sides showing a power-down effect. A bin in the corner overflows with remote controls." width="50%"><br>
       <br>
-      <font color="gold"><i>A DIY, pocket-sized universal remote control designed with a single purpose: to turn off almost any television in its vicinity. Built on top of an <strong>Arduino Nano</strong>, this device sequentially broadcasts infrared (IR) `POWER OFF` commands for dozens of major TV manufacturers with a single button press.</i></font>
+      <font color="gold"><i>A DIY universal IR remote powered by Arduino Nano. It sequentially transmits power-off codes to shut down almost any TV in range with a single click. Written entirely from scratch.</i></font>
       <br><br>
       <a href="https://github.com/Marchino1978/shuTVdown"><strong>GitHub Repository</strong></a><br>
       <a href="https://marchino1978.github.io/shuTVdown/"><strong>Project Website</strong></a>
@@ -63,7 +63,7 @@
       <br>
       <img src="https://raw.githubusercontent.com/Marchino1978/shuTVdown/main/img/_splash_.png" alt="Illustrazione 3D di un laboratorio di elettronica. Al centro, un Arduino Nano sorridente con un'unica porta USB è collegato a due LED che emettono fulmini energetici. L'energia si propaga a tutti i televisori della stanza: schermi piatti a muro con la scritta 'power OFF' e vecchi CRT laterali che si stanno spegnendo. Un cestino nell'angolo è pieno di telecomandi. | A 3D illustration of an electronics lab. In the center, a smiling Arduino Nano with a single USB port is connected to two LEDs emitting energy beams. The energy connects to all televisions in the room: wall-mounted flat screens displaying 'power OFF' and vintage CRTs on the sides showing a power-down effect. A bin in the corner overflows with remote controls." width="50%"><br>
       <br>
-      <font color="gold"><i>A DIY, pocket-sized universal remote control designed with a single purpose: to turn off almost any television in its vicinity. Built on top of an <strong>Arduino Nano</strong>, this device sequentially broadcasts infrared (IR) `POWER OFF` commands for dozens of major TV manufacturers with a single button press.</i></font>
+      <font color="gold"><i>A DIY universal IR remote powered by Arduino Nano. It sequentially transmits power-off codes to shut down almost any TV in range with a single click. Written entirely from scratch.</i></font>
       <br><br>
       <a href="https://github.com/Marchino1978/shuTVdown"><strong>GitHub Repository</strong></a><br>
       <a href="https://marchino1978.github.io/shuTVdown/"><strong>Project Website</strong></a>
