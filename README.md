@@ -16,7 +16,7 @@
       <br>
       <img src="https://raw.githubusercontent.com/Marchino1978/dom-US/main/img/_splash_.png" alt="Illustrazione in stile fumetto di una casa in miniatura che funge da involucro per una breadboard ESP32 con diversi sensori, con un percorso stilizzato di circuiti che collegano gli oggetti. | Comic-style illustration of a miniature house acting as a shell for an ESP32 breadboard with various sensors, with a stylized circuit path connecting items." width="50%"><br>
       <br>
-      <font color="gold"><i>A smart home IoT ecosystem built with ESP32-C3 mini and Supabase. Features zero-false-alarm power outage detection via Telegram, offline sensor data buffering (temp/humidity), web dashboard charts, and an integrated security alarm system.</i></font>
+      <font color="gold"><i>A smart home IoT ecosystem built with ESP32-C3 mini and Supabase. Features zero-false-alarm power outage detection via Telegram, offline sensor data buffering (temp/humidity), web dashboard charts, and an integrated security alarm system with Alexa siren integration.</i></font>
       <br><br>
       <a href="https://github.com/Marchino1978/dom-US"><strong>GitHub Repository</strong></a><br>
       <a href="https://marchino1978.github.io/dom-US/"><strong>Project Website</strong></a>
